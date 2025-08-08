@@ -1,0 +1,13 @@
+Step-by-Step Guide to Build the Project (A to Z)
+Step 1: Define Use Case
+Scope: Customer support for a specific bank (start with 1)
+
+Type of Questions:
+
+Account opening requirements
+
+Loan application rules
+
+ATM-related queries
+
+Mobile banking FAQs

@@ -1,0 +1,7 @@
+ How Your RAG Chatbot Solves the Problem
+Problem	Solution via RAG Chatbot
+Long wait times for basic queries	Instant answer via chatbot
+Human error/confusion	Accurate retrieval from official PDF
+Staff overwhelmed by repeat questions	Chatbot handles repetitive queries
+No 24/7 support	Chatbot works 24/7
+Wrong document brought to bank	Bot lists required documents instantly

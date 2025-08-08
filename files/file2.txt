@@ -1,0 +1,17 @@
+ Why Your Idea Is Strong
+✅ Real-World Problem:
+Bank and mobile banking customers face difficulties getting clear information.
+
+Long wait times, call costs, and misinformation are common.
+
+Bank staff are overwhelmed handling repetitive queries.
+
+✅ Proposed Solution:
+Use a Retrieval-Augmented Generation (RAG) based AI chatbot trained on bank PDFs (rules, documents, services).
+
+Automatically answers user queries.
+
+Escalates to human agent if unsure.
+
+Saves time, reduces cost, improves service.
+

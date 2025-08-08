@@ -1,0 +1,9 @@
+Technologies You Will Use
+Feature	Tool
+Chatbot	LangChain / Haystack / custom backend
+RAG	HuggingFace Transformers + FAISS
+PDF Reading	PyMuPDF / LangChain PDF loader
+Frontend	Streamlit / React
+Backend	Python (FastAPI or Django)
+LLM	OpenAI, Mistral, or LLaMA-3
+Optional	Twilio, Firebase for messaging or voice
